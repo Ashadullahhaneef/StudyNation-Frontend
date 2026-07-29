@@ -80,7 +80,3 @@ I wanted a project that wasn't just a to-do list clone — something with real-w
 ## Feedback
 
 If you spot a bug, have a suggestion, or just want to say hi — feel free to open an issue or reach out. Always happy to improve this further!
-
----
-
-<p align="center">Built with ❤️ by Ashadullah Haneef</p>
